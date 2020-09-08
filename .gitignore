@@ -3,7 +3,6 @@ policyfiles/*.lock.json
 .kitchen
 .kitchen.local.yml
 .idea
-terraform.tfvars
 terraform.tfstate*
 .terraform*
 .vagrant
@@ -28,4 +27,3 @@ bin/*
 Berksfile.lock
 .zero-knife.rb
 Policyfile.lock.json
-
